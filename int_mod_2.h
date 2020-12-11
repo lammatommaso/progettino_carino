@@ -1,7 +1,6 @@
 #ifndef INT_MOD_2_H
 #define INT_MOD_2_H
 
-
 class int_mod_2 
 {
     unsigned short int value;
@@ -18,17 +17,5 @@ class int_mod_2
         
         unsigned short int getvalue()const;
 };
-
-
-
-
-
-
-
-
-
-
-
-
 
 #endif
